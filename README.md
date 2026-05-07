@@ -83,6 +83,7 @@ python main.py
 ```text
 📦 Proyecto-Mongodb
 ├── main.py
+├── funciones.py
 ├── vulnerabilidades_modificado.json
 ├── README.md
 └── requirements.txt
