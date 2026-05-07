@@ -78,7 +78,7 @@ python main.py
 
 ---
 
-## 📁 Estructura Recomendada del Proyecto
+## 📁 Estructura del proyecto
 
 ```text
 📦 Proyecto-Mongodb
